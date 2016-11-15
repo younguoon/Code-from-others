@@ -1,1 +1,1 @@
-# Sexy-code-from-others
+code-from-others
